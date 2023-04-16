@@ -10,13 +10,9 @@
 ### Features
 
 * Application can be built for any Operating System
-<br/>
 * Can be built for arm64, arm, win32, amd, etc
-<br/>
 * Stores Your list in Local Storage so when app closes you dont have to worry about it
-<br/>
 * Has cool animations
-<br/>
 * Themes
 
 ### Requirments to build
