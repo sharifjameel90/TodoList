@@ -22,24 +22,18 @@
 ### Requirments to build
 
 * npm
-<br/>
 * electron
-<br/>
 * electron-packager
 
 
 ### How to install?
-first
+First
 
-* `npm install`
-Or
-* `yarn add`
+* `npm install` OR `yarn add`
 
 Then
 
-* `npm run package`
-Or
-* `yarn package`
+* `npm run package` OR `yarn package`
 
 ### Credits 
 
