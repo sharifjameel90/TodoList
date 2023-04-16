@@ -1,0 +1,17 @@
+{
+  "name": "ToDo",
+  "version": "1.0.0",
+  "description": "A Todo List",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-packager ."
+  },
+  "author": "Sharif Jameel",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^24.1.2",
+    "electron-builder": "^23.6.0",
+    "electron-packager": "^17.1.1"
+  }
+}
